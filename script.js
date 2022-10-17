@@ -79,7 +79,8 @@ $(document).ready(function () {
                         flag=true;
                   }
                 });  
+                // $("#p2").html(table);
                 table+='</table>'
-                  $("#p2").html(table);              
+              $("#p2").html(table);              
  })
 })
